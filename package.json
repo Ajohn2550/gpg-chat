@@ -1,0 +1,22 @@
+{
+  "name": "gpg-chat",
+  "version": "1.0.0",
+  "description": "Chat application using GPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint && npm run cover;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajohn2550/gpg-chat.git"
+  },
+  "author": "Alexander Martin Johnson <alex@johnsonwebware.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ajohn2550/gpg-chat/issues"
+  },
+  "homepage": "https://github.com/Ajohn2550/gpg-chat#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
